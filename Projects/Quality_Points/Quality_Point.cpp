@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-int qualitypoints(int average);
+float qualitypoints(float average);
 
 int main()
 {
-    int avg;
+    float avg;
     int point ;
 
     cout<<"Enter the average marks = ";
@@ -19,7 +19,7 @@ int main()
     return 0;
 }
 
-int qualitypoints(int average)
+float qualitypoints(float average)
 {
     int qp;
     if (average <=100 & average >= 90)
