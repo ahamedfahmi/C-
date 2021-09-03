@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" P:\C++\Fibonacci
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" P:\C++\Cpp\Projects\Fibonacci
 -- The C compiler identification is MSVC 19.29.30038.1
 -- The CXX compiler identification is MSVC 19.29.30038.1
 -- Detecting C compiler ABI info
@@ -13,4 +13,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: P:/C++/Fibonacci/cmake-build-debug
+-- Build files have been written to: P:/C++/Cpp/Projects/Fibonacci/cmake-build-debug

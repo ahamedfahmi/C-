@@ -1,4 +1,4 @@
-# Install script for directory: P:/C++/Fibonacci
+# Install script for directory: P:/C++/Cpp/Projects/Fibonacci
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "P:/C++/Fibonacci/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "P:/C++/Cpp/Projects/Fibonacci/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
