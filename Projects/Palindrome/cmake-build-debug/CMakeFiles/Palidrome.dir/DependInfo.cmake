@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "P:/C++/Cpp/Projects/Palindrome/main.cpp" "P:/C++/Cpp/Projects/Palindrome/cmake-build-debug/CMakeFiles/Palidrome.dir/main.cpp.obj"
+  "P:/Git/Projects/Palindrome/main.cpp" "P:/Git/Projects/Palindrome/cmake-build-debug/CMakeFiles/Palidrome.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

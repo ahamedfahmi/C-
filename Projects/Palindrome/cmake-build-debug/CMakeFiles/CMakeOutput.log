@@ -21,7 +21,7 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "P:/C++/Cpp/Projects/Palindrome/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "P:/Git/Projects/Palindrome/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
 Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.29.30133/bin/Hostx86/x86/cl.exe 
@@ -45,29 +45,29 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "P:/C++/Cpp/Projects/Palindrome/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "P:/Git/Projects/Palindrome/cmake-build-debug/CMakeFiles/3.19.2/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: P:/C++/Cpp/Projects/Palindrome/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: P:/Git/Projects/Palindrome/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_5fae5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_5fae5.dir\build.make /nologo -L                  CMakeFiles\cmTC_5fae5.dir\build
-Building C object CMakeFiles/cmTC_5fae5.dir/CMakeCCompilerABI.c.obj
-	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe @C:\Users\ahame\AppData\Local\Temp\nmD22A.tmp
+Run Build Command(s):nmake /nologo cmTC_a7082\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_a7082.dir\build.make /nologo -L                  CMakeFiles\cmTC_a7082.dir\build
+Building C object CMakeFiles/cmTC_a7082.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe @C:\Users\ahame\AppData\Local\Temp\nm2BC4.tmp
 CMakeCCompilerABI.c
-Linking C executable cmTC_5fae5.exe
-	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5fae5.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_5fae5.dir\objects1.rsp @C:\Users\ahame\AppData\Local\Temp\nmD298.tmp
+Linking C executable cmTC_a7082.exe
+	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a7082.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_a7082.dir\objects1.rsp @C:\Users\ahame\AppData\Local\Temp\nm2D5C.tmp
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: P:/C++/Cpp/Projects/Palindrome/cmake-build-debug/CMakeFiles/CMakeTmp
+Change Dir: P:/Git/Projects/Palindrome/cmake-build-debug/CMakeFiles/CMakeTmp
 
-Run Build Command(s):nmake /nologo cmTC_15ab1\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_15ab1.dir\build.make /nologo -L                  CMakeFiles\cmTC_15ab1.dir\build
-Building CXX object CMakeFiles/cmTC_15ab1.dir/CMakeCXXCompilerABI.cpp.obj
-	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe @C:\Users\ahame\AppData\Local\Temp\nmD4F8.tmp
+Run Build Command(s):nmake /nologo cmTC_81501\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\nmake.exe"  -f CMakeFiles\cmTC_81501.dir\build.make /nologo -L                  CMakeFiles\cmTC_81501.dir\build
+Building CXX object CMakeFiles/cmTC_81501.dir/CMakeCXXCompilerABI.cpp.obj
+	C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\cl.exe @C:\Users\ahame\AppData\Local\Temp\nm3104.tmp
 CMakeCXXCompilerABI.cpp
-Linking CXX executable cmTC_15ab1.exe
-	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_15ab1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_15ab1.dir\objects1.rsp @C:\Users\ahame\AppData\Local\Temp\nmD567.tmp
+Linking CXX executable cmTC_81501.exe
+	"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_81501.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100190~1.0\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\14.29.30133\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_81501.dir\objects1.rsp @C:\Users\ahame\AppData\Local\Temp\nm3172.tmp
 
 
 

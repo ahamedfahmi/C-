@@ -1,4 +1,4 @@
-# Install script for directory: P:/C++/Cpp/Projects/Palindrome
+# Install script for directory: P:/Git/Projects/Palindrome
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "P:/C++/Cpp/Projects/Palindrome/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "P:/Git/Projects/Palindrome/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
